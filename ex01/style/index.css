@@ -1,0 +1,47 @@
+.container {
+  padding: 50px;
+  margin: 0 auto;
+  width: 90%;
+  text-align: center;
+  max-width: 900px;
+}
+
+.container h2 {
+  color: firebrick;
+  font-size: 20px;
+  margin: 0 auto;
+  text-align: center;
+  padding: 10px;
+  margin-bottom: 5px;
+}
+.container-1 {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 3%;
+  text-align: center;
+}
+
+.container-1 p {
+  text-align: justify;
+  font-size: 15px;
+  padding: 10px;
+}
+
+.container-1 h4 {
+  text-align: left;
+  color: rgb(65, 172, 204);
+  font-size: 15px;
+  padding: 10px;
+  margin-bottom: -20px;
+  margin-top: 3px;
+}
+
+.Box {
+  padding: 6px;
+  width: 30%;
+}
+
+.Box img {
+  width: 100%;
+}
